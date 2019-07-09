@@ -10,3 +10,6 @@
 ## Обучение:
 <br/>- Уроки: https://dotnet.microsoft.com/learn
 <br/>- Первая программа по шагам: https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/intro
+
+# Запуск приложения ExampleApp
+<br/>Перед запуском приложения восстановите NuGet пакеты: Visual Studio -> Solution Explorer -> пкм по Solution 'ExampleApp' (1 of 1 projects) -> Restore NuGet Packages
